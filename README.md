@@ -11,8 +11,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/moromerx/ai-cloud-cli.git
-   cd ai-cloud-cli
+   git clone https://github.com/moromerx/ai-cloud-cli-poc.git
+   cd ai-cloud-cli-poc
    ```
 
 2. **Create a virtual environment**
@@ -50,13 +50,13 @@
 ### Example Interactions
 
 ```
-ai-cloud-cli> Show me all my EC2 instances
+ai-cloud-cli-poc> Show me all my EC2 instances
 🤖 I'll check your EC2 instances for you...
 
-ai-cloud-cli> Create a new S3 bucket called my-project-assets
+ai-cloud-cli-poc> Create a new S3 bucket called my-project-assets
 🤖 I'll create an S3 bucket named 'my-project-assets' for you...
 
-ai-cloud-cli> What's the status of my RDS databases?
+ai-cloud-cli-poc> What's the status of my RDS databases?
 🤖 Let me check the status of your RDS instances...
 ```
 
