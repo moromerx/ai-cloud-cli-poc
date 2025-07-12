@@ -50,13 +50,13 @@
 ### Example Interactions
 
 ```
-ai-cloud-cli-poc> Show me all my EC2 instances
+ai-cloud-cli> Show me all my EC2 instances
 🤖 I'll check your EC2 instances for you...
 
-ai-cloud-cli-poc> Create a new S3 bucket called my-project-assets
+ai-cloud-cli> Create a new S3 bucket called my-project-assets
 🤖 I'll create an S3 bucket named 'my-project-assets' for you...
 
-ai-cloud-cli-poc> What's the status of my RDS databases?
+ai-cloud-cli> What's the status of my RDS databases?
 🤖 Let me check the status of your RDS instances...
 ```
 
