@@ -1,4 +1,4 @@
-`ai-cloud-cli` is an intelligent command-line interface that lets you interact with your cloud environment using natural language. Powered by advanced AI models, it understands your intent and executes AWS operations seamlessly through conversational commands.
+`ai-cloud-cli` is an intelligent command-line interface that lets you interact with your cloud environment using natural language. It understands your intent and executes AWS operations seamlessly through conversational commands.
 
 ## 🚀 Setup
 
